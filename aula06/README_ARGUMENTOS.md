@@ -1,12 +1,12 @@
 Rodar no terminal:
 > Compilar
 
-`javac Argumento.java`
+`javac Argumentos.java`
 
 > Executar com 1 palavra
 
-`java Argumento Fran`
+`java Argumentos Fran`
 
 > Executar com mais de uma Palavra
 
-`java Argumento "Meu Nome é Fran"`
+`java Argumentos "Meu Nome é Fran"`
