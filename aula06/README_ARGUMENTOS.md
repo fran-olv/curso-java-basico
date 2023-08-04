@@ -1,4 +1,4 @@
-Rodar no terminal:
+# Rodar no terminal:
 > Compilar
 
 `javac Argumentos.java`
